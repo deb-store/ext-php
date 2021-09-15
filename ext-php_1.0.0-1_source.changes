@@ -12,17 +12,17 @@ Changes:
  .
    * Initial Release
 Checksums-Sha1:
- c0cec0c4230245d35cebc82de465f70894c64482 996 ext-php_1.0.0-1.dsc
- 7f7497faf7a321c4542f59a6c451506791176d2f 456 ext-php_1.0.0.orig.tar.xz
- 036c9e05376a4eb31035118575261fd342a2b818 768 ext-php_1.0.0-1.debian.tar.xz
- 3096f3c0be990f27aa641bc5c62f339ea38d5cc2 4388 ext-php_1.0.0-1_source.buildinfo
+ 65cb3e8779a6a4e1d37057db9686de623f592cb0 996 ext-php_1.0.0-1.dsc
+ f0b996b4c156ed06ebcb33432933c5fae7c3f86e 456 ext-php_1.0.0.orig.tar.xz
+ a1ee8aea0aed628a274e238fabd08de5c60b5ee1 760 ext-php_1.0.0-1.debian.tar.xz
+ 965910da4dfb319a8d451db87041bbbb9eae9c7d 4388 ext-php_1.0.0-1_source.buildinfo
 Checksums-Sha256:
- af9de4d9de1f93951aafd405298c542b823bc19bc9c68aef676e85a706ec7b50 996 ext-php_1.0.0-1.dsc
- be07dd7cccb741bf053e0c3c2a119d75e8ab1d6d07e8b0b88de452f3a160b201 456 ext-php_1.0.0.orig.tar.xz
- 960732a63d1976046f6f4f0142610332d2bf2d2b3d14722fbac1fe40ee719ee3 768 ext-php_1.0.0-1.debian.tar.xz
- e778fe3a2de935c2b4d5eb987d832a3b723a305913b9003d45676724d73519de 4388 ext-php_1.0.0-1_source.buildinfo
+ 4eb59c96d7f49a0629fc75b3fd2f26b4fe9fcb5f5445634e5f825c203500a7c3 996 ext-php_1.0.0-1.dsc
+ a90aa4327da6f516526df62b4d3a923e078ab54f30656060b553dc731f25c179 456 ext-php_1.0.0.orig.tar.xz
+ b0fca5007ec1458fbb2a01af04e6a91475f1b6b2651df5ffeb685b2febf4cf6d 760 ext-php_1.0.0-1.debian.tar.xz
+ d21496c5be07ec4ae1cb42c1c155a82a3ac05c51be110936461790e5b05871b2 4388 ext-php_1.0.0-1_source.buildinfo
 Files:
- 73c4cd22da3606f018ed3bb09fe17c86 996 admin optional ext-php_1.0.0-1.dsc
- e2e9741908a04e3666b273c4e8a8beec 456 admin optional ext-php_1.0.0.orig.tar.xz
- 0bd4a407bfbdc958532829cb458a81bf 768 admin optional ext-php_1.0.0-1.debian.tar.xz
- f7201d8e0ed703a3bb6040d433aecfcd 4388 admin optional ext-php_1.0.0-1_source.buildinfo
+ c2c3989d429ba2af3a35acd369b4f37f 996 admin optional ext-php_1.0.0-1.dsc
+ af3c98469aa985177a18e8870c2fe8d3 456 admin optional ext-php_1.0.0.orig.tar.xz
+ f5e5a8c85d8b1a3add6c2619b2ae5676 760 admin optional ext-php_1.0.0-1.debian.tar.xz
+ abbb72dd193ba3a95c86838ed474ad07 4388 admin optional ext-php_1.0.0-1_source.buildinfo
