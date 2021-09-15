@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 12 Nov 2019 14:00:00 +0300
+Source: ext-php
+Architecture: source
+Version: 1.0.0-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Package Store <kitsune.solar@gmail.com>
+Changed-By: Package Store <kitsune.solar@gmail.com>
+Changes:
+ ext-php (1.0.0-1) unstable; urgency=medium
+ .
+   * Initial Release
+Checksums-Sha1:
+ a6d1871446bee1bd43709a7bbeaac98db4f05691 996 ext-php_1.0.0-1.dsc
+ c63f43fbbf530fcbf9d6982b3d2e788754d4a19a 456 ext-php_1.0.0.orig.tar.xz
+ 036c9e05376a4eb31035118575261fd342a2b818 768 ext-php_1.0.0-1.debian.tar.xz
+ 9d314101c848e7b3d011448a407f3e05a94a604e 4388 ext-php_1.0.0-1_source.buildinfo
+Checksums-Sha256:
+ 2e850fa5e42e9ba2f083a086e91ee34793a53a54b0dada08333b39c2f92ddcae 996 ext-php_1.0.0-1.dsc
+ ae6d29f1854158290f5bfa1c7df4391c83a7e471a348970be04dfdc46198eb74 456 ext-php_1.0.0.orig.tar.xz
+ 960732a63d1976046f6f4f0142610332d2bf2d2b3d14722fbac1fe40ee719ee3 768 ext-php_1.0.0-1.debian.tar.xz
+ 04a38edee2615aacd324e9e55d9872c9897150cde248cd16d9244d27cca2fcd4 4388 ext-php_1.0.0-1_source.buildinfo
+Files:
+ d103aaa2d165136e51b6b1b640318455 996 admin optional ext-php_1.0.0-1.dsc
+ 48a43fb74171898a0861da0515e49a83 456 admin optional ext-php_1.0.0.orig.tar.xz
+ 0bd4a407bfbdc958532829cb458a81bf 768 admin optional ext-php_1.0.0-1.debian.tar.xz
+ ccfd3e5f180317b6f3eb199e9dce317c 4388 admin optional ext-php_1.0.0-1_source.buildinfo
