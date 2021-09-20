@@ -3,14 +3,14 @@ Source: ext-php
 Architecture: source
 Version: 1.0.0-1
 Checksums-Md5:
- c2c3989d429ba2af3a35acd369b4f37f 996 ext-php_1.0.0-1.dsc
+ fc4c071dd488b52d93065549ea877b9c 996 ext-php_1.0.0-1.dsc
 Checksums-Sha1:
- 65cb3e8779a6a4e1d37057db9686de623f592cb0 996 ext-php_1.0.0-1.dsc
+ d504ae473d270a446eefea512effae522ac8d13c 996 ext-php_1.0.0-1.dsc
 Checksums-Sha256:
- 4eb59c96d7f49a0629fc75b3fd2f26b4fe9fcb5f5445634e5f825c203500a7c3 996 ext-php_1.0.0-1.dsc
+ 27c112c0ec4085aca812f94286b8fa78a7a97fe807f6bd659c0fad35781c4ca2 996 ext-php_1.0.0-1.dsc
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Wed, 15 Sep 2021 10:59:07 +0000
+Build-Date: Mon, 20 Sep 2021 08:52:50 +0000
 Installed-Build-Depends:
  autoconf (= 2.69-14),
  automake (= 1:1.16.3-2),
