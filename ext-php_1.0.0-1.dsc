@@ -9,15 +9,15 @@ Homepage: https://pkgstore.gitlab.io
 Standards-Version: 4.5.1
 Vcs-Browser: https://github.com/pkgstore/linux-deb-ext-php
 Vcs-Git: https://github.com/pkgstore/linux-deb-ext-php.git
-Build-Depends: debhelper (>= 13), debhelper-compat (= 13)
+Build-Depends: debhelper-compat (= 13)
 Package-List:
  ext-php deb admin optional arch=all
 Checksums-Sha1:
- de6d941cf0159daa18757e5cc6bc4cb577a28c61 456 ext-php_1.0.0.orig.tar.xz
- a1ee8aea0aed628a274e238fabd08de5c60b5ee1 760 ext-php_1.0.0-1.debian.tar.xz
+ c23f416d065979ed44a9bda88c4cb1bb8e12216e 456 ext-php_1.0.0.orig.tar.xz
+ 1fcb3fbd66717894f75b789c9058425fa8757aed 748 ext-php_1.0.0-1.debian.tar.xz
 Checksums-Sha256:
- 385e1442162cc48c4d747951900c79670236e5300db2ba0a3e3430fadf61d4fe 456 ext-php_1.0.0.orig.tar.xz
- b0fca5007ec1458fbb2a01af04e6a91475f1b6b2651df5ffeb685b2febf4cf6d 760 ext-php_1.0.0-1.debian.tar.xz
+ 542d694cd3ca13357ae5f6c328cab4d9f1f9cfc06d9a35551618b80f6cf618a8 456 ext-php_1.0.0.orig.tar.xz
+ 37f384b31446f0aa47767bef0864a125ed673b10d675e4151903189638604bcf 748 ext-php_1.0.0-1.debian.tar.xz
 Files:
- f08ddcc315fdab31e3825a95d8277066 456 ext-php_1.0.0.orig.tar.xz
- f5e5a8c85d8b1a3add6c2619b2ae5676 760 ext-php_1.0.0-1.debian.tar.xz
+ ab6b517c344ba3bf54669fd84ee968b9 456 ext-php_1.0.0.orig.tar.xz
+ 3a364dd9913a7395eddcd84239c2b7ce 748 ext-php_1.0.0-1.debian.tar.xz
