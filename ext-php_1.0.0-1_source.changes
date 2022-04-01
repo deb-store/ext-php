@@ -12,17 +12,17 @@ Changes:
  .
    * Initial Release
 Checksums-Sha1:
- 356fb998bc53088081f94b25630d006048dca0eb 977 ext-php_1.0.0-1.dsc
- c23f416d065979ed44a9bda88c4cb1bb8e12216e 456 ext-php_1.0.0.orig.tar.xz
+ 45a6a2e82881a53ba5cad78557d31508c1c53a4c 977 ext-php_1.0.0-1.dsc
+ 71879a941be28ed0a602f3f42a0fcf9748931033 456 ext-php_1.0.0.orig.tar.xz
  1fcb3fbd66717894f75b789c9058425fa8757aed 748 ext-php_1.0.0-1.debian.tar.xz
- a2ff182fe020cdb155bbdd1e207f7ca7c2c6011c 4388 ext-php_1.0.0-1_source.buildinfo
+ 3065c58a250aceade2546aae8db68f1391b64f30 4581 ext-php_1.0.0-1_source.buildinfo
 Checksums-Sha256:
- 957323167ca93358ea5b9e3d3fe3bba692a5a6728e814e7c4d7d635edfa2be83 977 ext-php_1.0.0-1.dsc
- 542d694cd3ca13357ae5f6c328cab4d9f1f9cfc06d9a35551618b80f6cf618a8 456 ext-php_1.0.0.orig.tar.xz
+ 0717ba95a13f96e918a49c923d5c1eeed02fa60855acb8e98039f0ff7bd1c008 977 ext-php_1.0.0-1.dsc
+ c439d6a1a88f7e3bb13c9a6a247e5b067785fda94a43720f9e8f9612216a5b95 456 ext-php_1.0.0.orig.tar.xz
  37f384b31446f0aa47767bef0864a125ed673b10d675e4151903189638604bcf 748 ext-php_1.0.0-1.debian.tar.xz
- 6035cf95be8a3c9e24ba8004375dce0606e8812ece41e36203a4835842d3a8e5 4388 ext-php_1.0.0-1_source.buildinfo
+ ec9714a4f27b56ff8de36aeb641f738f00fe1faca0bdca2734c41dbb6db84822 4581 ext-php_1.0.0-1_source.buildinfo
 Files:
- 5d6cdd0c4257f268d96af8fcd3dbd729 977 admin optional ext-php_1.0.0-1.dsc
- ab6b517c344ba3bf54669fd84ee968b9 456 admin optional ext-php_1.0.0.orig.tar.xz
+ e6236edae86863c491e033b171d4f4a5 977 admin optional ext-php_1.0.0-1.dsc
+ 1ce08ff5f746b71b4701f2d3b1c5a0f7 456 admin optional ext-php_1.0.0.orig.tar.xz
  3a364dd9913a7395eddcd84239c2b7ce 748 admin optional ext-php_1.0.0-1.debian.tar.xz
- 6fc289c3e9582bdc2c62de3166e41eaa 4388 admin optional ext-php_1.0.0-1_source.buildinfo
+ 3f270f036703cf870f45f2837613c69f 4581 admin optional ext-php_1.0.0-1_source.buildinfo
